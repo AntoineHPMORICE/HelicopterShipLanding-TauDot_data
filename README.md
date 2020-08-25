@@ -8,5 +8,5 @@ Data collected :
 
 Data comprises : 
 - scan of Cooper-Harper Scales filled
-- Raw kinematics data from Fixed-base of CAVE type rotorcraft simulator
+- Raw kinematics data from PyscHel Fixed-base of CAVE type rotorcraft simulator 
 
